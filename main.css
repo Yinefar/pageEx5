@@ -1,0 +1,74 @@
+body{
+	background-image: url(../img/back.png);
+	width: 100%;
+}
+#principal{
+	width: 80%;
+	height: auto;
+	float: left;
+	margin:1% 10% 2% 10%;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	background-color: rgb(78, 18, 18);
+	/* margin-bottom: 10px; */
+}
+header,nav,section,footer{
+	width: 100%;
+	height: auto;
+	float: left;
+	margin-bottom: 5px;
+}
+
+#h1cab{
+	text-align: center;
+	color:rgb(240, 230, 230);
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#imgcab{
+	width: 100%;
+	height: 250px;
+	float: left;
+	cursor: pointer;
+}
+
+#pf, #ph{
+	width: 49%;
+	height: 20px;
+	/* float: center; */
+	align-items: center;
+	margin: 10px;
+	padding-left: 1%;
+	background-color: transparent;
+	/* border-radius: 10px; */
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+	'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	color:rgba(255, 250, 250, 0.668);
+}
+.blok{
+	width: 47%;
+	height: auto;
+	float: left;
+	margin: 10px 15px 10px;	
+	/* background-color: gray;
+	color: white; */
+	cursor: pointer;	
+	
+}
+.blok :hover {
+	filter:sepia(70%);
+}
+
+#imgpie{
+	width: 100%;
+	height: 70px;
+	float: left;
+	margin-bottom: 20px;
+}
+
+.imgblok
+{
+	width: 100%;
+	height: 250px;
+	float: left;
+	border-radius: 5%;
+}
