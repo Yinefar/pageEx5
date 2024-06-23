@@ -24,3 +24,5 @@ function carrusel() {
 }
 
 document.body.setAttribute("onload", "reloj(); carrusel()");
+
+///añadir botones
